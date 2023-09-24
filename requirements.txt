@@ -1,0 +1,6 @@
+pandas
+numpy
+streamlit
+torch
+transformers
+google-api-python-client
